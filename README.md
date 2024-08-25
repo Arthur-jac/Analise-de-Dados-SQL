@@ -1,9 +1,9 @@
-# Cury Company - Análise de Dados SQL
-Bem-vindo ao repositório de análise de dados da Cury Company! Este projeto foi desenvolvido para demonstrar habilidades avançadas em SQL e PLSQL, aplicadas a um cenário de negócio fictício. 
+# BRH - Análise de Dados SQL
+Bem-vindo ao repositório de análise de dados da BRH! Este projeto foi desenvolvido para demonstrar habilidades avançadas em SQL e PLSQL, aplicadas a um cenário de negócio fictício. 
 Abaixo, você encontrará uma visão geral do projeto, incluindo o problema de negócio, as premissas, a estratégia adotada, o produto final e a conclusão.
 
 ### Problema de Negócio
-A Cury Company, está buscando otimizar o gerenciamento e análise de dados relacionados aos seus colaboradores, projetos e planos de saúde. A empresa enfrenta desafios relacionados à:
+A BRH, está buscando otimizar o gerenciamento e análise de dados relacionados aos seus colaboradores, projetos e planos de saúde. A empresa enfrenta desafios relacionados à:
 1. Gestão de Dependentes: Filtragem e análise dos dados dos dependentes dos colaboradores.
 2. Avaliação de Salários e Senioridade: Identificação do colaborador com o maior salário e categorização de senioridade.
 3. Atribuição de Projetos: Monitoramento da quantidade de colaboradores por projeto e departamento.
@@ -32,13 +32,13 @@ O projeto inclui:
 ### Conclusão
 * Este projeto demonstra a aplicação de habilidades avançadas em SQL e PL/SQL para resolver problemas de negócios hipotéticos de maneira eficaz. Através da criação de consultas complexas, procedimentos e funções, 
 foi possível abordar desafios comuns enfrentados por empresas no gerenciamento de dados de colaboradores e projetos.
-* A Cury Company agora possui uma base sólida para análise e gestão de dados, proporcionando insights valiosos e facilitando a tomada de decisões estratégicas.
+* A BRH agora possui uma base sólida para análise e gestão de dados, proporcionando insights valiosos e facilitando a tomada de decisões estratégicas.
 O código e as abordagens apresentadas neste projeto podem ser facilmente adaptados e expandidos para atender a requisitos de negócios reais e futuros.
 
 
 ### Observações
 * A pasta **dados** é onde está localizado a criação do schema e a carga de dados.
-* Os scripts e procedimentos SQL são projetados para serem executados em um ambiente Oracle Database e fornecem uma visão completa da gestão e análise de dados da Cury Company.
+* Os scripts e procedimentos SQL são projetados para serem executados em um ambiente Oracle Database e fornecem uma visão completa da gestão e análise de dados da BRH.
 
 ### Ferramentas Utilizadas
 * SQL
